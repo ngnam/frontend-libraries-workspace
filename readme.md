@@ -5,3 +5,5 @@
 
 ## 3. [bdc-walkthrough](https://github.com/Broadcom/bdc-walkthrough)
 - An Angular Material library for displaying walk-through pop-ups and dialogs using a declarative way.
+
+## 4. [angular-wijmo-flexsheet](https://github.com/Robinyo/angular-wijmo-flexsheet)
