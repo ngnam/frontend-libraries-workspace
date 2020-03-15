@@ -7,3 +7,5 @@
 - An Angular Material library for displaying walk-through pop-ups and dialogs using a declarative way.
 
 ## 4. [angular-wijmo-flexsheet](https://github.com/Robinyo/angular-wijmo-flexsheet)
+
+## 5. [OverlayScrollbars](https://kingsora.github.io/OverlayScrollbars/#!overview)
