@@ -11,3 +11,8 @@
 ## 5. [OverlayScrollbars](https://kingsora.github.io/OverlayScrollbars/#!overview)
 
 ## 6. [Dirty check forms](https://github.com/ngneat/dirty-check-forms)
+
+## 7. [code-prettify](https://github.com/google/code-prettify)
+- https://github.com/angular/angular/blob/9.1.x/aio/src/app/custom-elements/code/code.component.ts
+- https://github.com/angular/angular/blob/9.1.x/aio/src/app/custom-elements/code/pretty-printer.service.ts
+
