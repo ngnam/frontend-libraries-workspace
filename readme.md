@@ -17,5 +17,6 @@
 - https://github.com/angular/angular/blob/9.1.x/aio/src/app/custom-elements/code/pretty-printer.service.ts
 
 ## 8. MathJS 
-[MatJS](https://www.mathjax.org/)
+- [MatJS](https://www.mathjax.org/)
+- [https://katex.org/](https://katex.org/)
 
