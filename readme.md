@@ -29,4 +29,7 @@
 
 * A declarative library for handling hotkeys in Angular applications 
 
+## 11. [changelog-cli](https://www.npmjs.com/package/conventional-changelog-cli)
+
+Generate a changelog from git metadata
 
